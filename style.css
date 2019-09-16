@@ -1,0 +1,56 @@
+body{
+	background-image: url(pic.jpg);
+	height: 75vh;
+	background-size: cover;
+	background-position: center;
+
+}
+.Login-page{
+	width: 360px;
+	padding: 10% 0 0;
+	margin: auto;
+	
+}
+.form{
+	position: relative;
+	z-index: 1;
+	background-color: rgba(23, 45, 151, 0.46);
+	max-width: 360px;
+	margin: 0 auto 100px;
+	padding-bottom: 15px;
+    text-align: center;
+}
+.form input{
+	font-family:"Roboto" sans-serif;
+	outline: 1;
+	background-color: #f2f2f2;
+	width:80%;
+	border: 0;
+	margin: 15px;
+	padding: 15px;
+	box-sizing: border-box;
+	font-size: 15px;
+	text-align: center;
+}
+
+.form button{
+	font-family: "Roboto", sans-serif;
+	text-transform: uppercase;
+	outline: 0;
+	background-color: #4caf50;
+	width: 55%;
+	border: 0;
+	padding:15px;
+	color:#FFFFFF;
+	font-size: 15px;
+	cursor: pointer;
+	margin: 15px;
+}
+p{
+	text-align: center;
+	color: white;
+	text-transform: uppercase; 
+}
+
+
+
